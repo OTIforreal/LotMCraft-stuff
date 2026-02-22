@@ -1198,6 +1198,23 @@
   "lotm.quest.impl.kill_seq1.description": "Search around for the structure to summon the Archangel and defeat them",
   "lotm.quest.impl.kill_seq1.lore": "An Archangel is on a rampage, defeat them before its too late!",
 
+
+  "lotm.quest.impl.collect_low_seq_characteristics": "Collect Beyonder Characteristics",
+  "lotm.quest.impl.collect_low_seq_characteristics.description": "Bring %s low-sequence Beyonder Characteristics (Seq 7-9). They will be confiscated.",
+  "lotm.quest.impl.collect_low_seq_characteristics.lore": "Power attracts power. Gather characteristics and hand them over for advancement materials.",
+
+  "lotm.quest.impl.kill_angel_beyonder": "Kill Angel Beyonder",
+  "lotm.quest.impl.kill_angel_beyonder.description": "",
+  "lotm.quest.impl.kill_angel_beyonder.lore": "",
+
+  "lotm.quest.impl.find_random_structures": "Find Ancient Structures",
+  "lotm.quest.impl.find_random_structures.description": "Discover any %s of these structures: Stronghold, Jungle Temple, Mansion, Trial Chambers, Desert Temple, Ocean Monument.",
+  "lotm.quest.impl.find_random_structures.lore": "Forgotten places contain forgotten truths. Find them and return.",
+
+  "lotm.quest.impl.kill_player_target": "Assassinate Target",
+  "lotm.quest.impl.kill_player_target.description": "Eliminate the marked player target.",
+  "lotm.quest.impl.kill_player_target.lore": "A name has been chosen. Hunt the target down.",
+
   "lotm.griefing": "Griefing Enabled",
   "lotm.griefing_required": "Griefing must be enabled",
   "lotm.temporarily_disabled": "This ability is temporarily disabled and will be reenabled shortly",
